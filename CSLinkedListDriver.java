@@ -11,7 +11,7 @@ public class CSLinkedListDriver {
         // TODO: Uncomment EXACTLY ONE of the following lines,
         // then implement that method below.
 
-        //runLL1_Playlist();
+        runLL1_Playlist();
         //runLL2_TodoList();
         //runLL3_CourseWaitlist();
         //runLL4_TextEditorLines();

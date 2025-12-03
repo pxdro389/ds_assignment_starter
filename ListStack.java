@@ -85,6 +85,9 @@ public class ListStack<E> implements StackInt<E> {
         }
         return theData.get(theData.size() - 2);
     }
-
+    @Override
+    public String toString() {
+        return theData.toString();
+    }
 }
 
